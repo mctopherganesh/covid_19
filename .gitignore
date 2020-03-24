@@ -3,3 +3,4 @@ CORD-19-research-challenge.zip
 covid_19/xplore_kaggle_tutorial_comp/biorxiv_medrxiv/
 covid_19/xplore_kaggle_tutorial_comp/comm_use_subset/
 *.json
+.ipynb_checkpoints/
